@@ -1,0 +1,6 @@
+--2021-11-12 13:19:12--  http://storageapi.yappes.local:98/serve/files/server_cert?format=pem
+Resolving storageapi.yappes.local (storageapi.yappes.local)... 127.0.0.1
+Connecting to storageapi.yappes.local (storageapi.yappes.local)|127.0.0.1|:98... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2021-11-12 13:19:12 ERROR 500: Internal Server Error.
+
